@@ -1,0 +1,6 @@
+DELAY 1000
+GUI t
+DELAY 500
+STRING xdg-open https://youtu.be/dQw4w9WgXcQ && exit
+DELAY 500
+ENTER
